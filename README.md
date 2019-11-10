@@ -1,0 +1,2 @@
+# MyTestMFC
+bingo
